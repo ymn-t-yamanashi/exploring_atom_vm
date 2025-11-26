@@ -24,3 +24,5 @@ exploring_atom_vm-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+/*.avm

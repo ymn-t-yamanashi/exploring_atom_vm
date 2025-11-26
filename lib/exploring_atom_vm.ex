@@ -4,6 +4,6 @@ defmodule ExploringAtomVm do
   """
 
   def start do
-     Enum.all?([1, 2, 3])
+    Enum.at([2, 4, 6], 1, :none)
   end
 end
